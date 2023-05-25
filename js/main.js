@@ -48,19 +48,19 @@ const btnRight = document.querySelector('.slider-btn-right');
 
 const sliderImages = [
   {
-    src: '/img/slider-1.jpg',
+    src: 'img/slider-1.jpg',
     rating: '8/10',
     date: '2022-02-03',
     title: 'A Must Be',
   },
   {
-    src: '/img/slider-2.jpg',
+    src: 'img/slider-2.jpg',
     rating: '7.6/10',
     date: '2022-02-04',
     title: 'Scared Loved',
   },
   {
-    src: '/img/slider-3.jpg',
+    src: 'img/slider-3.jpg',
     rating: '3/10',
     date: '2022-02-06',
     title: 'Man Behind the Tree',
